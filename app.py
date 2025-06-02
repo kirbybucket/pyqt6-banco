@@ -1,4 +1,3 @@
-# Sistema Bancario - Aplicación Principal
-# TODO: Implementar lógica principal
+from banco import Banco
 
-print("Sistema Bancario - En desarrollo...")
+app = Banco()
